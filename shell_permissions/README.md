@@ -12,3 +12,5 @@ This script creates an empty file named `hello`.
 ### 5-execute
 This script adds execute permission to the owner of the file `hello`.
 
+### 6-multiple_permissions
+This script adds execute permissions to the owner and group owner of the file `hello`, and read permissions to all other users. It uses the `chmod` command to set these permissions.
