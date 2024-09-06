@@ -8,3 +8,7 @@ This script prints the effective username of the current user by using the `whoa
 
 ### 4-empty
 This script creates an empty file named `hello`.
+
+### 5-execute
+This script adds execute permission to the owner of the file `hello`.
+
